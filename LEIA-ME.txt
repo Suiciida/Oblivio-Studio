@@ -1,1 +1,0 @@
-6.2 FULL — Envie os arquivos extraídos à raiz do GitHub Pages. Abra o endereço HTTPS e use Voz / áudio > Verificar microfone. Faça backup dos projetos antes de atualizar.
